@@ -1,1 +1,2 @@
-# angular-tutorial
+# angular-boilerplate
+Angular boilerplate.
